@@ -1,0 +1,15 @@
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\bin\Debug\net7.0\InheritanceLab.exe
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\bin\Debug\net7.0\InheritanceLab.deps.json
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\bin\Debug\net7.0\InheritanceLab.runtimeconfig.json
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\bin\Debug\net7.0\InheritanceLab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\bin\Debug\net7.0\InheritanceLab.pdb
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.csproj.AssemblyReference.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.AssemblyInfoInputs.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.AssemblyInfo.cs
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.csproj.CoreCompileInputs.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\refint\InheritanceLab.dll
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.pdb
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\InheritanceLab.genruntimeconfig.cache
+C:\Users\Darrel Nguyen\Documents\Object Programming\Object-Programming2-DarrelN\InheritanceLab\obj\Debug\net7.0\ref\InheritanceLab.dll
